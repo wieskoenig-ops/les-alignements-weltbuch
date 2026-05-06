@@ -24,10 +24,10 @@
 
 ### Yann Kergroac'h
 - Toter Taucher
+- Fand Unterwasser-Alignements — danach gestorbe
 
 ### Rozenn Cadic
 - Nachbarin, Notizbuch auf Bretonisch
-- Fand Unterwasser-Alignements — danach gestorben
 - Liest heute Nacht, Termin morgen 10h
 
 ## Orte
