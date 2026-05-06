@@ -3,6 +3,7 @@
 ## Bibel
 - Genre: Roadtrip-Thriller
 - Ton: Daphne du Maurier — atmosphärisch, unheimlich, geerdet
+- Ton kann im Verlauf dramatischer werden: Dan Brown
 - Schauplatz: Bretagne, Mai 2026
 - Kern: Unterwasser-Menhire vor Quiberon (real, CNRS-dokumentiert, 230 Steine)
 
