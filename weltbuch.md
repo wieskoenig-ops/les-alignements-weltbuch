@@ -54,6 +54,15 @@
 - Kommt morgen mit nach Gavrinis
 - Hat Kopie des Laborberichts mitgegeben
 
+  ### Isabelle Morvant
+- Archäologin, CNRS Rennes
+- Ehemalige Studentin von Kerbellec — hat ihm nie vollständig geglaubt, 
+  aber nie aufgehört zuzuhören
+- 2020: hat seinen Aufsatz als "zu früh, zu wenig Belege, aber nicht unmöglich" 
+  kommentiert
+- Kommt morgen, Montag, 11h — Café sur le port, Carnac
+- Macht Umweg von Vannes (Termin Dienstag früh)
+
   ### Aténor Infrastructure
 - Büros in Rennes und Brest
 - Offshore-Konzessionen an der bretonischen Küste
@@ -69,6 +78,16 @@
   Fähre täglich ab April, Führungen max. 12 Personen, 20 Minuten in der Kammer
   Deckplatte: Fragmente des unbekannten Ursprungssteins sichtbar
 - Kerlescan: östliches Ende der Alignements, Zeichen von 1987 fotografiert
+- Côte Sauvage / Quiberon: Megalithen entlang der Küste
+- Alignements de Kerbourgnec (Saint-Pierre-Quiberon): 23 Menhire, 
+    5 Reihen, setzen sich ins Meer fort — bei Ebbe teilweise sichtbar
+- Jean et Jeannette: zwei Menhire, Legende der unmöglichen Liebe
+- Menhir en bonnet d'évêque + Menhir brisé (bei Le Vivier)
+- Arche de Port Blanc: Felsbogen über dem Wasser
+- Larmor-Baden: Fährhafen nach Gavrinis, Cale de Pen Lannic
+- Gavrinis: Cairn, UNESCO seit Juli 2025
+  — Zeichen auf Unterseite der Deckplatte, nicht im 3D-Scan erfasst
+  — Kerbellec war seit 2019 nicht mehr dort
 
 ## Kontinuitätsfakten
 - Langoustines werden gekocht, nicht roh gegessen
@@ -80,6 +99,11 @@
   Material, nicht bretonisch, möglicherweise westafrikanisch oder Meeresgrund
 - Meeresspiegel vor 5000 Jahren: 20 Meter tiefer — dritter Punkt lag damals an Land
 - François ist vorerst raus — Markus und Sophie fühlen sich ausgenutzt
+- - Gebrochene Menhire an der Côte Sauvage: Frage ob absichtlich zerbrochen
+- Das Zeichen auf der Gavrinis-Deckplatte ist nicht publiziert, 
+  nicht im 3D-Scan — nur Kerbellec, Markus, Sophie wissen es
+- Isabelle Morvant: skeptisch aber offen — noch nicht informiert 
+  über Aténor
 
 ## Episodenlog
 - Episode 1: Saint-Malo — Fähre, Frühstück, Antiquar Leconte. 
