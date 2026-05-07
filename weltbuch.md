@@ -44,6 +44,12 @@
 - Bewahrt sein Notizbuch auf — hat es fast nicht gelesen
 - Liest Bretonisch. Mag François nicht.
 - Hat Markus+Sophie zu Kerbellec geschickt
+- Rozenn Cadic. Ende der Siebzig, Carnac. Sie lebt in der Rue des Korrigans 7, drei Häuser vom Hymer entfernt, seit Jahrzehnten.
+Sie und Yann Kergroac'h waren Nachbarn — nicht Freunde im sentimentalen Sinn, eher Menschen die sich kannten wie man jemanden kennt der immer schon da war. Er tauchte, sie nicht. Er schrieb auf Bretonisch, sie liest es. Das ist seltener als man denkt: Bretonisch ist eine Sprache die in ihrer Generation von vielen verstanden aber kaum mehr gesprochen oder geschrieben wird. Dass Yann es schrieb, war Absicht. Rozenn ist eine der wenigen die das weiß und die es kann.
+Als Yann starb — offiziell Tauchunfall, Februar dieses Jahres — hinterließ er ihr das Notizbuch. Nicht explizit, kein Testament. Es lag bei seinen Sachen und irgendwie landete es bei ihr. Sie hat es "fast nicht gelesen", sagt sie. Das heißt: sie hat hineingeschaut. Einen Eintrag, vielleicht zwei. Dann zugemacht.
+François Merle kennt sie. Aus Stuttgart, Geschäftsmann, hat in der Bretagne gelegentlich Interessen die er lieber nicht selbst verfolgt. Sie mag ihn nicht. Er sie nicht. Warum genau — das hat sie Markus und Sophie nicht gesagt. Dass er sie beide zu ihr geschickt hat, obwohl er weiß wie sie übereinander denken, sagt etwas über seine Berechnung.
+Heute Nacht liest sie das Notizbuch vollständig. Morgen früh um zehn kommen Markus und Sophie wieder.
+Was sie bis dahin weiß — und was sie davon zeigen wird — ist offen.
 
 ### Henri Kerbellec
 - Plouharnel, Rue des Mégalithes, Ende 70
