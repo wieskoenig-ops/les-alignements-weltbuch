@@ -132,6 +132,7 @@ Was sie bis dahin weiß — und was sie davon zeigen wird — ist offen.
 - Episode 6: Plouharnel — Kerbellec. Das Dreieck. Laborbericht Edinburgh.
   Aténor Infrastructure. François vorerst raus.
   Abends: Makrelen, Muscadet, Carnac. Morgen Gavrinis.
+- Episode 7: Test-Commit durch Claude Code
   
 
 ## Offene Fäden
