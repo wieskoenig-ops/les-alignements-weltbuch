@@ -110,6 +110,17 @@ Was sie bis dahin weiß — und was sie davon zeigen wird — ist offen.
   nicht im 3D-Scan — nur Kerbellec, Markus, Sophie wissen es
 - Isabelle Morvant: skeptisch aber offen — noch nicht informiert 
   über Aténor
+- Alistair Brennan (University of Edinburgh, Geochemiker): 
+  hat 2015 Laborbericht zurückgezogen nach Besuch von François Merle.
+  Will Bericht jetzt einreichen. Kontakt zu Isabelle Morvant hergestellt.
+- François Merle war 2015 externer Berater bei Aténor Infrastructure — 
+  danach nicht mehr. Hat Brennan besucht und Bericht unterdrückt.
+  Hat Aténor indirekt auf Yanns Arbeit hingewiesen. Wartet in Stuttgart.
+- Carbonatit-Lagerstätte vor Quiberon: enthält möglicherweise seltene Erden
+  (Niob, Tantal, Cer) — wirtschaftlich hochrelevant für Energiewende.
+  Aténor weiß davon oder ahnt es — daher der Bogen in der Kabeltrasse.
+- Isabelle Morvant fährt zurück nach Carnac. Meldet sich morgen früh.
+
 
 ## Episodenlog
 - Episode 1: Saint-Malo — Fähre, Frühstück, Antiquar Leconte. 
@@ -148,3 +159,9 @@ Wer sind "sie" — wer wusste dass Yann etwas gefunden hat?
 - Hat Leconte den Umschlag an jemanden gemeldet?
 - Der alte Mann auf der Bank in Carnac — war es nichts?
 - Was weiß François noch das er nicht gesagt hat?
+- François Merle: komplizierter als gedacht. Nicht nur Auftraggeber — 
+  auch Mitverantwortlicher. Wartet auf Anruf. Wann und wie konfrontieren?
+- Brennan reicht Bericht ein — was löst das aus? Wer beobachtet das?
+- Aténor: Bausaison beginnt Juni. Fünf Wochen.
+- Was will Isabelle Morvant konkret tun — offizielle Meldung? Ausgrabungsantrag?
+
